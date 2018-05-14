@@ -4,6 +4,9 @@
 # IDEA project settings
 .idea/
 
+## IDEA output folder
+out/
+
 # Log file
 *.log
 
